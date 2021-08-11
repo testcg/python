@@ -1,0 +1,38 @@
+作业
+1. 三合一
+2. 当天练习独立完成
+
+3. 父类：车(品牌，速度)
+   创建子类：电动车(电池容量,充电功率)
+   使用属性保护速度在0~260,电池容量在0~10000范围内
+   直接打印对象格式：
+       xx的速度是xx
+       xx的速度是xx,电池容量是xx,充电功率是xx
+
+4.定义函数,根据员工编号,删除员工信息,返回是否删除成功
+class Employee:
+    def __init__(self, eid, did, name, money):
+        self.eid = eid
+        self.did = did
+        self.name = name
+        self.money = money
+
+# 员工列表
+list_employees = [
+    Employee(1001, 9002, "师父", 60000),
+    Employee(1002, 9001, "孙悟空", 50000),
+    Employee(1003, 9002, "猪八戒", 20000),
+    Employee(1004, 9001, "沙僧", 30000),
+    Employee(1005, 9001, "小白龙", 15000),
+]
+5. (选做)完成2048 向左向右移动函数
+ --定义向左移动函数,改变list_map中的数据
+    思路：将list_map每行赋值给list_merge
+         调用合并函数(练习2)
+
+ -- 定义向右移动函数,改变list_map中的数据
+    思路：将list_map每行,反转,赋值给list_merge
+         调用合并函数
+         因为切片反转会创建新容器,所以还需要将list_merge还原给list_map
+
+ 温馨提示：画内存图哦

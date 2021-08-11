@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0056b2e5-0eae-4516-8987-358707651d02" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1p0w4dNvL3FGz07BLThMVhxtMtO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/house_information_manager_system" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/house_information_manager_system" />
+      <recent name="$PROJECT_DIR$/day19" />
+      <recent name="$PROJECT_DIR$/day18" />
+      <recent name="$PROJECT_DIR$/day19/homework" />
+      <recent name="$PROJECT_DIR$/day17" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day19/homework" />
+      <recent name="$PROJECT_DIR$/day17" />
+      <recent name="$PROJECT_DIR$/day17/homework" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/day01" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="dal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="month01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/house_information_manager_system" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/house_information_manager_system/dal.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exercise04 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="month01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day09" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day09/exercise04.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exercise04" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="month01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day19" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day19/exercise04.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="month01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/house_information_manager_system" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/house_information_manager_system/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="review01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="month01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day19" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day19/review01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.dal" />
+        <item itemvalue="Python.exercise04 (1)" />
+        <item itemvalue="Python.review01" />
+        <item itemvalue="Python.exercise04" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0056b2e5-0eae-4516-8987-358707651d02" name="Default Changelist" comment="" />
+      <created>1614333125896</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614333125896</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="88" width="374" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1615881748189">
+      <screen x="67" y="27" width="957" height="741" />
+    </state>
+    <state x="320" y="88" width="374" height="562" key="#com.intellij.ide.util.MemberChooser/67.27.957.741@67.27.957.741" timestamp="1615881748189" />
+    <state x="245" y="116" width="524" height="506" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1616056355126">
+      <screen x="67" y="27" width="957" height="741" />
+    </state>
+    <state x="245" y="116" width="524" height="506" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.957.741@67.27.957.741" timestamp="1616056355126" />
+    <state x="182" y="27" width="660" height="741" key="#exercise01" timestamp="1615165638785">
+      <screen x="67" y="27" width="957" height="741" />
+    </state>
+    <state x="182" y="27" width="660" height="741" key="#exercise01/67.27.957.741@67.27.957.741" timestamp="1615165638785" />
+    <state width="615" height="438" key="DebuggerActiveHint" timestamp="1616385083860">
+      <screen x="67" y="27" width="957" height="741" />
+    </state>
+    <state width="615" height="438" key="DebuggerActiveHint/67.27.957.741@67.27.957.741" timestamp="1616385083860" />
+    <state x="100" y="70" width="824" height="598" key="DiffContextDialog" timestamp="1616402536600">
+      <screen x="67" y="27" width="957" height="741" />
+    </state>
+    <state x="100" y="70" width="824" height="598" key="DiffContextDialog/67.27.957.741@67.27.957.741" timestamp="1616402536600" />
+    <state x="264" y="138" key="FileChooserDialogImpl" timestamp="1614665703008">
+      <screen x="67" y="27" width="957" height="741" />
+    </state>
+    <state x="264" y="138" key="FileChooserDialogImpl/67.27.957.741@67.27.957.741" timestamp="1614665703008" />
+    <state width="998" height="574" key="GridCell.Tab.0.bottom" timestamp="1616579728911">
+      <screen x="67" y="27" width="957" height="741" />
+    </state>
+    <state width="929" height="266" key="GridCell.Tab.0.bottom/67.27.955.597@67.27.955.597" timestamp="1614581928971" />
+    <state width="998" height="574" key="GridCell.Tab.0.bottom/67.27.957.741@67.27.957.741" timestamp="1616579728911" />
+    <state width="998" height="574" key="GridCell.Tab.0.center" timestamp="1616579728911">
+      <screen x="67" y="27" width="957" height="741" />
+    </state>
+    <state width="929" height="266" key="GridCell.Tab.0.center/67.27.955.597@67.27.955.597" timestamp="1614581928970" />
+    <state width="998" height="574" key="GridCell.Tab.0.center/67.27.957.741@67.27.957.741" timestamp="1616579728911" />
+    <state width="998" height="574" key="GridCell.Tab.0.left" timestamp="1616579728911">
+      <screen x="67" y="27" width="957" height="741" />
+    </state>
+    <state width="929" height="266" key="GridCell.Tab.0.left/67.27.955.597@67.27.955.597" timestamp="1614581928970" />
+    <state width="998" height="574" key="GridCell.Tab.0.left/67.27.957.741@67.27.957.741" timestamp="1616579728911" />
+    <state width="998" height="574" key="GridCell.Tab.0.right" timestamp="1616579728911">
+      <screen x="67" y="27" width="957" height="741" />
+    </state>
+    <state width="929" height="266" key="GridCell.Tab.0.right/67.27.955.597@67.27.955.597" timestamp="1614581928970" />
+    <state width="998" height="574" key="GridCell.Tab.0.right/67.27.957.741@67.27.957.741" timestamp="1616579728911" />
+    <state width="998" height="546" key="GridCell.Tab.1.bottom" timestamp="1616568034383">
+      <screen x="67" y="27" width="957" height="741" />
+    </state>
+    <state width="998" height="546" key="GridCell.Tab.1.bottom/67.27.957.741@67.27.957.741" timestamp="1616568034383" />
+    <state width="998" height="546" key="GridCell.Tab.1.center" timestamp="1616568034382">
+      <screen x="67" y="27" width="957" height="741" />
+    </state>
+    <state width="998" height="546" key="GridCell.Tab.1.center/67.27.957.741@67.27.957.741" timestamp="1616568034382" />
+    <state width="998" height="546" key="GridCell.Tab.1.left" timestamp="1616568034381">
+      <screen x="67" y="27" width="957" height="741" />
+    </state>
+    <state width="998" height="546" key="GridCell.Tab.1.left/67.27.957.741@67.27.957.741" timestamp="1616568034381" />
+    <state width="998" height="546" key="GridCell.Tab.1.right" timestamp="1616568034382">
+      <screen x="67" y="27" width="957" height="741" />
+    </state>
+    <state width="998" height="546" key="GridCell.Tab.1.right/67.27.957.741@67.27.957.741" timestamp="1616568034382" />
+    <state x="67" y="31" key="SettingsEditor" timestamp="1616404643814">
+      <screen x="67" y="27" width="957" height="741" />
+    </state>
+    <state x="67" y="31" key="SettingsEditor/67.27.957.741@67.27.957.741" timestamp="1616404643814" />
+    <state width="512" height="399" key="XDebugger.FullValuePopup" timestamp="1615539162487">
+      <screen x="67" y="27" width="957" height="741" />
+    </state>
+    <state width="512" height="399" key="XDebugger.FullValuePopup/67.27.957.741@67.27.957.741" timestamp="1615539162487" />
+    <state x="67" y="27" width="947" height="741" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1616039583809">
+      <screen x="67" y="27" width="957" height="741" />
+    </state>
+    <state x="67" y="27" width="947" height="741" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/67.27.957.741@67.27.957.741" timestamp="1616039583809" />
+    <state x="151" y="89" width="719" height="678" key="search.everywhere.popup" timestamp="1616404451614">
+      <screen x="67" y="27" width="957" height="741" />
+    </state>
+    <state x="151" y="89" width="719" height="678" key="search.everywhere.popup/67.27.957.741@67.27.957.741" timestamp="1616404451614" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day03/exercise06.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day04/demo01.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day08/demo04.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day08/demo05.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day08/exercise04.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day08/demo06.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day09/demo02.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day09/demo04.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day11/demo01.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day11/exercise05.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day12/homework/game2048.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day12/exercise02.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day12/demo04.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day12/exercise05.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day13/homework/exercise01.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day12/exercise03.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day13/demo02.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day13/exercise03.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day16/demo01.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day16/demo05.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day17/homework/exercise01.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day17/exercise01.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day18/exercise01.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day19/homework/exercise03.py</url>
+          <line>49</line>
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day19/demo05.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,26 @@
+作业
+1. 三合一
+2. 当天练习独立完成
+3. 遍历图形控制器
+class GraphicController:
+		pass
+
+controller = CommodityController()
+controller.add_graphic("圆形")
+controller.add_graphic("矩形")
+controller.add_graphic ("三角形")
+
+for item in controller:
+    print(item)
+
+4. 将迭代器版本的商品控制器改为yield实现
+   exercise03.py
+
+5. 对员工管理系统进行异常处理
+    employee_system
+
+6. 完成mvc版本2048
+    -- 将核心算法移动到GameController类中
+       提示：全局变量改为实例变量
+            函数改为实例方法
+    -- 创建GameView类,根据wsad键移动数字.

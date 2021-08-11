@@ -1,0 +1,23 @@
+作业
+
+3. 在学生列表中完成下列功能：
+-- 要求：使用生成器函数和表达式实现
+-- 查找所有姓名小于三个字的学生
+-- 查找所有女同学
+-- 查找所有成绩小于60的同学姓名
+-- 查找成绩最高的学生
+class Student:
+    def __init__(self, name="", age=0, score=0, sex=""):
+        self.name = name
+        self.age = age
+        self.score = score
+        self.sex = sex
+
+list_student = [
+    Student("悟空",26,96,"男"),
+    Student("八戒",25,50,"男"),
+    Student("唐僧",23,53,"女"),
+    Student("小白龙",29,85,"女"),
+]
+4. 复习之前所有难题
+
